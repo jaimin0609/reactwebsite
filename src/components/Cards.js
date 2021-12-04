@@ -25,7 +25,7 @@ function Cards() {
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                        src="Images/image-5.jpg"
+                        src="jaimin0609/reactwebsite/tree/main/public/Images/image-5.jpg"
                         text="Better, Faster, Together."
                         label='Web Designing'
                         path="/services"
