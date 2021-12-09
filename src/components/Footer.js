@@ -96,7 +96,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='https://twitter.com'
               target='_blank'
               aria-label='Twitter'
             >
@@ -104,7 +104,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='https://twitter.com'
+              to='https://www.linkedin.com'
               target='_blank'
               aria-label='LinkedIn'
             >
