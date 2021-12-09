@@ -56,7 +56,7 @@ function Footer() {
             <Link to='/'>Instagram</Link>
             <Link to='/'>Facebook</Link>
             <Link to='https://www.youtube.com'>Youtube</Link>
-            <Link to='https://twitter.com/login?lang=en'>Twitter</Link>
+            <Link to='https://twitter.com'>Twitter</Link>
           </div>
         </div>
       </div>
