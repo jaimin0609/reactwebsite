@@ -53,8 +53,8 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
+            <Link to='https://www.instagram.com'>Instagram</Link>
+            <Link to='https://www.facebook.com'>Facebook</Link>
             <Link to='https://www.youtube.com'>Youtube</Link>
             <Link to='https://twitter.com'>Twitter</Link>
           </div>
@@ -72,7 +72,7 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='/'
+              to='https://www.facebook.com'
               target='_blank'
               aria-label='Facebook'
             >
@@ -80,7 +80,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/'
+              to='https://www.instagram.com'
               target='_blank'
               aria-label='Instagram'
             >
@@ -88,7 +88,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link youtube'
-              to='/'
+              to='https://www.youtube.com'
               target='_blank'
               aria-label='Youtube'
             >
@@ -104,7 +104,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='https://twitter.com'
               target='_blank'
               aria-label='LinkedIn'
             >
